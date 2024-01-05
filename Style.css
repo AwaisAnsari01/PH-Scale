@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+fieldset{
+    width: 1000px;
+    margin: auto;
+    margin-top: 150px;
+    
+}
+
+h1{
+    background-color:#aca9a9;
+    text-align: center;
+}
+#P-One{
+    background-color:#0000cf;
+    margin: 3px;
+    padding: 0%;
+    
+}
+#P-Two{
+    background-color:#2d2dff;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Three{
+    background-color:#4e4eff;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Four{
+    background-color:#7373ff;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Five{
+    background-color:#9191ff;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Six{
+    background-color:#a7a7ff;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Seven{
+    background-color:#00aa5b;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Eight{
+    background-color:#facbe8;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Nine{
+    background-color:#fda4db;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Ten{
+    background-color:#ff7acc;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Eleven{
+    background-color:#fd54bc;
+    margin: 3px;
+    padding: 0%;
+}
+#P-Twelve{
+    background-color:#fa29aa;
+    margin: 3px;
+    padding: 0%;
+}
+
+#P-Thirteen{
+    background-color:#ff009d;
+    margin: 3px;
+    padding: 0%;
+}
